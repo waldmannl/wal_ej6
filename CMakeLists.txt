@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(ros2_cpp_template)
+project(wal_ej6)
 
 # Default to C++14
 if(NOT CMAKE_CXX_STANDARD)
